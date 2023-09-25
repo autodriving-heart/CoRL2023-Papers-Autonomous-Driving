@@ -1,31 +1,31 @@
 # CoRL2023-Papers-Autonomous-Driving
 
 # Contents
-- [End 2 End](#End 2 End)
-- [3D Object Detection](#3D Object Detection)
+- [End 2 End](#End2End)
+- [3D Object Detection](#3D-Object-Detection)
 - [Segmentation ](#Segmentation)
 - [Occupancy](#Occupancy)
 - [Planning](#Planning)
-- [Depth Estimation ](#Depth Estimation)
+- [Depth Estimation ](#Depth-Estimation)
 - [Simulation](#Simulation)
 - [Navigation](#Navigation)
-- [Collaborative Perception](#Collaborative Perception)
-- [Trajectory Prediction](#Trajectory Prediction)
-- [Testing And Safety](#Testing And Safety)
-- [Auto Labelling](#Auto Labelling)
+- [Collaborative Perception](#Collaborative-Perception)
+- [Trajectory Prediction](#Trajectory-Prediction)
+- [Testing And Safety](#Testing-And-Safety)
+- [Auto Labelling](#Auto-Labelling)
 - [Calibration](#Calibration)
-- [Conditional Imitation Learning](#Conditional Imitation Learning)
-- [Autonomous Racing](#Autonomous Racing)
+- [Conditional Imitation Learning](#Conditional-Imitation-Learning)
+- [Autonomous Racing](#Autonomous-Racing)
 - [Postscript](#Postscript)
 
 
-## End 2 End
+## End2End
 
 CAT: Closed-loop Adversarial Training for Safe End-to-End Driving
 
 [[paper]](https://openreview.net/pdf?id=VtJqMs9ig20)
 
-## 3D Object Detection
+## 3D-Object-Detection
 
 Cross-dataset Sensor Alignment: Making Visual 3D Object Detector Generalize
 
@@ -81,7 +81,7 @@ Language-Conditioned Path Planning
 
 [[paper]](https://openreview.net/pdf?id=9bK38pUBzU)
 
-## Depth Estimation 
+## Depth-Estimation 
 
 ADU-Depth: Attention-based Distillation with Uncertainty Modeling for Depth Estimation
 
@@ -115,7 +115,7 @@ Context-Aware Deep Reinforcement Learning for Autonomous Robotic Navigation in U
 
 [[paper]](https://openreview.net/pdf?id=kSXh83gWWy)
 
-## Collaborative Perception
+## Collaborative-Perception
 
 BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities
 
@@ -127,7 +127,7 @@ Multi-Predictor Fusion: Combining Learning-based and Rule-based Trajectory Predi
 
 [[paper]](https://openreview.net/pdf?id=MF_cS7TCYk)
 
-## Testing And Safety
+## Testing-And-Safety
 
 Towards Scalable Coverage-Based Testing of Autonomous Vehicles 
 
@@ -137,7 +137,7 @@ Learning-Aware Safety for Interactive Autonomy
 
 [[paper]](https://openreview.net/pdf?id=0o2JgvlzMUc)
 
-## Auto Labelling
+## Auto-Labelling
 
 LabelFormer: Auto-labelling Objects from LiDAR Point Clouds via Trajectory-level Refinement
 
@@ -149,19 +149,19 @@ Batch Differentiable Pose Refinement for In-The-Wild Camera/LiDAR Extrinsic Cali
 
 [[paper]](https://openreview.net/forum?id=mTZcxs2O7k)
 
-## Reinforcement Learning
+## Reinforcement-Learning
 
 FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing
 
 [[paper]](https://openreview.net/pdf?id=FRKBdXhkQE0)
 
-## Conditional Imitation Learning
+## Conditional-Imitation-Learning
 
 Learning to Drive Anywhere via Regional Channel Attention
 
 [[paper]](https://openreview.net/pdf?id=6a4sECAMCA)
 
-##  Autonomous Racing
+##  Autonomous-Racing
 
 Scalable Deep Kernel Gaussian Process for Vehicle Dynamics in Autonomous Racing
 
